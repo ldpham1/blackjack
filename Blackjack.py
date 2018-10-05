@@ -1,7 +1,3 @@
-"""
-ICS 31 Lab 8 Problem 1
-Author: UCI_ID: 68168196 Name: Lillian Pham
-"""
 import random
 
 class Card:
